@@ -1,0 +1,9 @@
+/* Write your code here. */
+.horizontal-line {
+  border: 1px solid #e4e7eb;
+}
+.ans-desc {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
